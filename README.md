@@ -24,7 +24,7 @@
 🌱 &nbsp;I'm on track for learning more about Data Engineering , Web development and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at yaswanth.k0594@gmail.com! I'll try to respond as soon as I can.\
 
-#####😄 Pronouns: he/him
+😄 Pronouns: he/him
 
 ### 🛠 &nbsp;Tech Stack
 
