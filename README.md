@@ -31,7 +31,7 @@
 <table width="100%">
     <tr>
         <td>
-        <table width="100%">
+        <table>
             <tr>
                 <td><h4>📈 Skill set</h4></td>
             </tr>
