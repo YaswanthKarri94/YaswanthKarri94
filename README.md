@@ -4,7 +4,7 @@
 
 </a>
 <a href="https://www.linkedin.com/in/yaswanthk5594/">
-  <img align="left" alt="Yaswanth's LinkdIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622479589~hmac=001a04e8d6c6016dc0cd76fda88eea06" />
+  <img align="left" alt="Yaswanth's LinkdIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" />
 </a>
 
 <a href="https://github.com/yaswanth0594">
