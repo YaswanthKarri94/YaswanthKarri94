@@ -28,10 +28,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<table width="100%">
-    <tr>
-        <td>
-        <table>
+
+ <table>
             <tr>
                 <td><h4>📈 Skill set</h4></td>
             </tr>
@@ -45,7 +43,5 @@
                 <li><b>Machine Learning: </b>Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN</li>
                 </td>
             </tr>
-        </table>
-        </td>
-    </tr> 
-</table>
+ </table>
+
