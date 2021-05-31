@@ -1,6 +1,6 @@
 ## [Hi There](https://www.linkedin.com/in/yaswanthk5594/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![About me image](About_me.jpg)
+![About me image](Detail.jpg)
 
 </a>
 <a href="https://www.linkedin.com/in/yaswanthk5594/">
