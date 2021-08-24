@@ -41,13 +41,12 @@
                 <td><h4>📈 Skill set</h4></td>
             </tr>
             <tr>
-                <td><li><b>Programming Languages: </b>Python, R, Javascript, SAP ABAP , C</li>
-                <li><b>Databases: </b>MySQL, PostgreSQL, MongoDB (NoSQL)</li>
-                <li><b>Data Visualization: </b>Tableau, Shiny, Matplotlib, Seaborn , ggplot2</li>
-                <li><b>Libraries: </b>Pandas, Numpy, Scikit-learn, tidyverse, , dplyr, Tensorflow, Keras, Beautiful Soup</li>
-                <li><b>Framework/Tools: </b>Pytorch, React, Git, MS Office, Apache Airflow,Jupyter Notebooks</li>
-                <li><b>DevOps Tools: </b>Docker</li>
-                <li><b>Machine Learning: </b>Classification, Regression, Clustering, Neural Networks, Ensemble Learning, Forecasting, Dimension Reduction, Predictive modeling, CNN, GAN</li>
+                <td><li><b>Programming Languages: </b>Python, R, Java, C, SAP ABAP, HTML, CSS, JavaScript</li>
+                <li><b>Databases: </b>PostgreSQL, MySQL, MongoDB</li>
+                <li><b>Data Visualization: </b>Tableau, Power BI, Shiny</li>
+                <li><b>Libraries: </b>Pandas, Numpy, PyTorch, Tenserflow, Keras, Matplotlib, Seaborn, Tidyverse, ggplot2, dplyr</li>
+                <li><b>Framework/Tools: </b>Spark, Kafka, Apache Airflow, Node.js, Redux, Express, React, Git, Docker, AWS</li>
+                <li><b>Machine Learning: </b>Classification, Regression, Clustering, Neural Networks, Forecasting, Recommendation systems</li>
                 </td>
             </tr>
         </table>
