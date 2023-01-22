@@ -15,9 +15,6 @@
   <img align="left" alt="Yaswanth's Tableau" width="22px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" />
 </a>
 
-<a href="https://www.instagram.com/insta_me_as_yash/">
-  <img align="left" alt="Yaswanth's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
-</a>
 
 <br />
 <br/>
@@ -25,9 +22,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp; I am a Graduate student in Data Science at Indiana University, Bloomington.\
-📈 &nbsp;Almost 5 years of hands-on working experience on Programming languages, Databases , Data Analysis and Machine Learning.\
+📈 &nbsp;Almost 6 years of hands-on working experience on Programming languages, Databases , Data Analysis and Machine Learning.\
 🌱 &nbsp;I'm on track for learning more about Data Engineering , Web development and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at yaswanth.k0594@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at kyashwanth.2022@gmail.com! I'll try to respond as soon as I can.
 
 😄 Pronouns: he/him
 
